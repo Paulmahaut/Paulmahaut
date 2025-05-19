@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulmahaut
 - 👀 I’m interested in Trading card games, videogames, in reading fantastic and many others
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, html/css/js
 
 - 📫 How to reach me : Discord : paulmahaut
 - 😄 Pronouns: He/his
