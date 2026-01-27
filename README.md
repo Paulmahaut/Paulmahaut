@@ -20,6 +20,10 @@ Hi, I'm Paul 👋
 - Building structured personal projects
 - Improving code quality, testing, and project organization
 
+## NOTE:
+Currently reorganizing/cleaning repositories to highlight selected projects.
+That's why none of them are currently public.
+
 
 
 
